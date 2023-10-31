@@ -1,0 +1,66 @@
+.first{
+	border: 1px solid grey;
+        margin-left: 150px;
+        margin-right: 150px;
+	display: flex;
+	justify-content:space-around;
+
+}
+.second{margin-right: 150px;
+         margin-left: 150px;}
+.alone{margin-right: 150px;
+       margin-left: 150px;
+       color: rgba(11,105,169,255)  }         
+.third{border: 1px solid grey;
+       margin-left: 150px;
+       margin-right: 150px;}
+.space{margin: 15px;
+       padding-left:10px}
+.mainspace{display: flex;
+	         flex-direction: row;
+            justify-content: space-between;
+            margin:-15px;
+             padding-top: 10px}  
+.side{padding-right: 50px;}     
+.colour1{color: rgba(11,105,169,255);} 
+.colour2{color: orange}   
+.colour3{color:  rgba(11,105,169,255);}    
+.small{display: flex;
+	   flex-direction: row;
+	   justify-content: space-between;
+	   height: 45px;
+	   width: 60px;
+        padding-left: 30px;
+         padding-right: 30px;}
+.head{  display:flex;
+         flex-direction:row;
+         justify-content:space-between;
+         padding-left:25px;
+         padding-right:150px; }       
+.thirdf{padding-left:150px;}  
+.tfirst{padding-left: 25px;}         
+.thatha{display: flex;
+        flex-direction: row;
+        justify-content:space-between;
+        padding-right:90px; }
+.aikdoo{display: flex;
+        flex-direction: row;
+        justify-content: space-between;}
+.gabru{padding-right: 455px;} 
+.ggop{padding-left: 80px;}
+.center{border:1px solid grey;
+        margin-left: 360px;
+        margin-right:360px;
+        padding-top:10px;
+        padding-bottom:10px }
+.thatha2{padding-top: 20px;
+         display: flex;
+        flex-direction: row;
+        justify-content:space-between;
+        padding-right:90px;}        
+.ko{padding-left: 25px;}
+.thor{display: flex;
+         flex-direction: row;
+        justify-content: space-between;}
+.spider{padding-right: 425px;}     
+.class{color:  rgba(11,105,169,255)}
